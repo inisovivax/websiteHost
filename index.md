@@ -1,4 +1,20 @@
+<body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      &copy; to me
+    </footer>
+  </body>
+  
 # Richard Gao's Personal Website
+
+================ 
 
 You can use the [editor on GitHub](https://github.com/inisovivax/websiteHost/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
