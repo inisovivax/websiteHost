@@ -17,7 +17,7 @@ Hi! Welcome to my personal page!
 
 I am currently a masters student studying at UCI, and I have taken my undergrad in Computer Science with a focus in Security in [UMD](https://www.umd.edu/)
 
-<img src="IMG_1066.jpg" alt="drawing" width="200"/>
+<img src="IMG_1066.jpg" alt="my_portrait" width="200"/>
 
 ### About this website
 It is currently under construction please come back soon

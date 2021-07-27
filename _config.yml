@@ -1,1 +1,11 @@
+title: Richard Gao's Private Website
+author: Richard Gao
+
 theme: jekyll-theme-minimal
+
+navbar-links:
+  Resume: "/resume/"
+  Blog:
+    - Blog Home: "/blog"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Home: "/websiteHost"

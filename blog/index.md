@@ -1,3 +1,17 @@
+<body>
+    <nav>
+      <a href="/websiteHost/">Home</a>
+      <a href="/websiteHost/blog/">Blog</a>
+      <a href="/websiteHost/resume/">Resume</a>
+    </nav>
+    <footer>
+      Inisovivax
+    </footer>
+  </body>
+
 # Blog 
-### fill in blog here
-something something private blog
+Personal blog to fill in things
+
+### Start of blod to fill with something else
+
+7/25 : creation of this website &nbsp;
