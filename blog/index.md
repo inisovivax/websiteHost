@@ -1,9 +1,4 @@
 <body>
-    <nav>
-      <a href="/websiteHost/">Home</a>
-      <a href="/websiteHost/blog/">Blog</a>
-      <a href="/websiteHost/resume/">Resume</a>
-    </nav>
     <footer>
       Inisovivax
     </footer>
@@ -12,6 +7,6 @@
 # Blog 
 Personal blog to fill in things
 
-### Start of blod to fill with something else
+### Start of blog to fill with something else
 
 7/25 : creation of this website &nbsp;

@@ -19,3 +19,10 @@ Universitry of Maryland |  Bachelor's in Computer Science &nbsp;  Cybersecurity 
 University of California Irvine | Masters in Embedded and Cyber-Physical Systems | '21 fall - (Ongoing)
 
 ## Skills and Projects
+### Programming languages:  
+- Python
+- Java
+- C
+- Rust
+- OCaml
+- Familiarity with HTML+ Css, Ocaml, Lisp famility languaes

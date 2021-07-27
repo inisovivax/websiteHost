@@ -9,3 +9,10 @@ navbar-links:
     - Blog Home: "/blog"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Home: "/websiteHost"
+avatar: "30151432.png"
+round-avatar: true
+url-pretty: "inisovivax.github.io"
+date_format: "%B %-d, %Y"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

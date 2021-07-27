@@ -5,7 +5,7 @@
       <a href="/websiteHost/resume/">Resume</a>
     </nav>
     <footer>
-      Inisovivax
+      Richard Gao
     </footer>
   </body>
 
@@ -19,5 +19,20 @@ I am currently a masters student studying at UCI, and I have taken my undergrad 
 
 <img src="IMG_1066.jpg" alt="my_portrait" width="200"/>
 
-### About this website
-It is currently under construction please come back soon
+I like going on hikes with friends and visiting interesting landmarks with my family. &nbsp;
+
+I like playing the guitar, cooking, swimming and going to the beach &nbsp;
+
+## Contact me:
+
+email: rgao496@gmail.com &nbsp;
+
+cell phone: (949)-501-3648
+
+
+## About this website
+Click "websiteHost" on the side if the home button dissappears for some strange reason &nbsp;
+
+It is currently under construction please come back soon &nbsp;
+
+This website is quite buggy and I will finish it whenever I wish to work again on it (nav bar is broken)
