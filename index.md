@@ -5,7 +5,7 @@
       <a href="/websiteHost/resume/">Resume</a>
     </nav>
     <footer>
-      Richard Gao
+      Richard Gao 2021
     </footer>
   </body>
 
@@ -15,13 +15,19 @@ Hi! Welcome to my personal page!
 
 ## About me
 
-I am currently a masters student studying at UCI, and I have taken my undergrad in Computer Science with a focus in Security in [UMD](https://www.umd.edu/)
+I am currently a masters student studying at the University of California Irvine, and I have taken my undergrad in Computer Science with a focus in Security, along with a minor in mathmatics in [University of Maryland College Park](https://www.umd.edu/). I am always interested in learning and discovering new things.
 
 <img src="IMG_1066.jpg" alt="my_portrait" width="200"/>
 
+
+### Hobbies
+----
+
 I like going on hikes with friends and visiting interesting landmarks with my family. &nbsp;
 
-I like playing the guitar, cooking, swimming and going to the beach &nbsp;
+I also like playing the guitar and playing chess in my free time. &nbsp;
+
+
 
 ## Contact me:
 

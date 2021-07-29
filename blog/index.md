@@ -1,4 +1,9 @@
 <body>
+    <nav>
+      <a href="/websiteHost/">Home</a>
+      <a href="/websiteHost/blog/">Blog</a>
+      <a href="/websiteHost/resume/">Resume</a>
+    </nav>
     <footer>
       Inisovivax
     </footer>
